@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May  3 06:21:54 2022
-
-@author: yrt05
-"""
-
 import os.path as osp
 import pyreadr
 import pandas as pd
